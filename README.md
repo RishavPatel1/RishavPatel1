@@ -60,7 +60,7 @@ Multi-Agent Systems | n8n | Zapier | Make.com | Workflow Automation | API Integr
 
 <h3>Vector Databases & Databases</h3>
 <p>
-Pinecone | ChromaDB | PostgreSQL | MySQL | faiss
+Pinecone | ChromaDB | PostgreSQL | MySQL | Faiss
 </p>
 
 <h3>Backend & Deployment</h3>
