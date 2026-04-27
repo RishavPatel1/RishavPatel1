@@ -60,12 +60,12 @@ Multi-Agent Systems | n8n | Zapier | Make.com | Workflow Automation | API Integr
 
 <h3>Vector Databases & Databases</h3>
 <p>
-Pinecone | ChromaDB | PostgreSQL | MySQL
+Pinecone | ChromaDB | PostgreSQL | MySQL | faiss
 </p>
 
 <h3>Backend & Deployment</h3>
 <p>
-FastAPI | Flask | Docker | REST APIs | AWS EC2 | AWS S3 | AWS SageMaker
+FastAPI | Flask | Docker | REST APIs | AWS EC2 | AWS S3 | AWS SageMaker | VPS Machine
 </p>
 
 <h3>MLOps & DevOps</h3>
